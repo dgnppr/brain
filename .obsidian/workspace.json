@@ -165,11 +165,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c08dd281c535982b",
+  "active": "7dbfb6c0f2e5c903",
   "lastOpenFiles": [
-    "Kafka/브로커.md",
-    "Kafka/토픽.md",
-    "Kafka",
+    "spring webflux",
+    "coroutines",
+    "virtual thread",
+    "kafka/브로커.md",
+    "kafka/토픽.md",
+    "kafka",
     "Welcome.md"
   ]
 }
