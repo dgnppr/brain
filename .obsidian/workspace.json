@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "virtual thread/기본 개념.md",
+                "file": "kafka/토픽.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "기본 개념"
+              "title": "토픽"
             }
           }
         ]
@@ -169,13 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c08dd281c535982b",
+  "active": "7dbfb6c0f2e5c903",
   "lastOpenFiles": [
-    "virtual thread/기본 개념.md",
-    "spring webflux",
-    "coroutines",
-    "virtual thread",
     "kafka/브로커.md",
+    "virtual thread/기본 개념.md",
+    "virtual thread",
     "kafka/토픽.md",
     "kafka",
     "Welcome.md"
